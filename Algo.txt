@@ -1,0 +1,23 @@
+Furqan Ul Islam 211ADB086
+Mohammed Arham Mohammed 221ADB053
+Sadeem Riyaz 221ADB072
+
+We Used Chatgpt for implementing visuals
+
+The Solution for: 
+11 x 11: 99 coins
+31 x 31: 1076 coins
+101 x 101: A* Search :1766 coins, Dijkstra's: 1763 coins, BFS:1765 coins; 
+We implemented three algorithms. for file 11 x 11 and 31 x 31 our snake collects the same number of coins for all algorithms. But for file 101 x 101 we noticed that it collects different number of coins.
+
+1. A* Search Algorithm:
+Time Complexity : O(b^d)
+Space Complexity: O(b^d)
+
+2. Dijkstra's Algorithm:
+Time Complexity : O((V+E)logV)
+Space Complexity: O(V+E)
+
+3. BFS:
+Time Complexity : O(V+E)
+Space Complexity: O(V+E)
